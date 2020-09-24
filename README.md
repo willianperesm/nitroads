@@ -1,5 +1,4 @@
 # teste1
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -163,7 +162,7 @@ src="https://www.facebook.com/tr?id=271765157560811&ev=PageView&noscript=1"
 				<div class="elementor-element elementor-element-23689f15 elementor-align-center elementor-widget elementor-widget-button" data-id="23689f15" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://pay.hotmart.com/K40079638Q?checkoutMode=10" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
+			<a href="https://go.hotmart.com/T41195535S?ap=f73f" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text"> Inscreva-se!</span>
 		</span>
@@ -297,7 +296,7 @@ src="https://www.facebook.com/tr?id=271765157560811&ev=PageView&noscript=1"
 				<div class="elementor-element elementor-element-45c0ad34 elementor-align-center elementor-widget elementor-widget-button" data-id="45c0ad34" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://pay.hotmart.com/K40079638Q?checkoutMode=10" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
+			<a href="https://go.hotmart.com/T41195535S?ap=f73f" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text"> Inscreva-se!</span>
 		</span>
@@ -458,7 +457,7 @@ Grupo Vip de alunos. Garanto atendimento 24h por dia!</div>
 				<div class="elementor-element elementor-element-641027b4 elementor-align-center elementor-widget elementor-widget-button" data-id="641027b4" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://pay.hotmart.com/K40079638Q?checkoutMode=10" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
+			<a href="https://go.hotmart.com/T41195535S?ap=f73f" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">quero aprender!</span>
 		</span>
@@ -643,7 +642,7 @@ Grupo Vip de alunos. Garanto atendimento 24h por dia!</div>
 				<div class="elementor-element elementor-element-14c7ddd4 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="14c7ddd4" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://pay.hotmart.com/K40079638Q?checkoutMode=10" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
+			<a href="https://go.hotmart.com/T41195535S?ap=f73f" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Quero Garantir minha vaga!</span>
 		</span>
@@ -766,7 +765,7 @@ marketing digital.</p></div>
 				<div class="elementor-element elementor-element-5019e928 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="5019e928" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://pay.hotmart.com/K40079638Q?checkoutMode=10" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
+			<a href="https://go.hotmart.com/T41195535S?ap=f73f" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-pulse" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Quero Garantir minha vaga!</span>
 		</span>
